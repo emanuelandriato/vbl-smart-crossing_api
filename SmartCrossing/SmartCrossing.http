@@ -1,0 +1,6 @@
+@SmartCrossing_HostAddress = http://localhost:5215
+
+GET {{SmartCrossing_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
